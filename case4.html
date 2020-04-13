@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+	</body>
+	<script type="text/javascript">
+		function isSymmetryNum(start, end) {
+			for (var i = start; i < end + 1; i++) {
+				var iInversionNumber = +(i.toString().split("").reverse().join(""));
+
+				if (iInversionNumber === i && i > 10) {
+					console.log(i);
+				}
+
+			}
+		}
+		isSymmetryNum(1, 10000);
+	</script>
+</html>

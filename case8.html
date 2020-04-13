@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<script type="text/javascript">
+			var jmz = {};
+			jmz.GetLength = function(str) {
+				var realLength = 0,
+					len = str.length,
+					charCode = -1;
+				for (var i = 0; i < len; i++) {
+					charCode = str.charCodeAt(i);
+					if (charCode >= 0 && charCode <= 128)
+						realLength += 1;
+					else
+						realLength += 2;
+				}
+				return realLength;
+			};
+
+			alert(jmz.GetLength('测试测试ceshiceshi'));
+		</script>
+	</body>
+</html>
