@@ -19,6 +19,12 @@
 - 事件驱动
 
 ### Vue2
-
+- 响应式数据原理
+- v-model原理
 ### Vue3
+- ref
+- reactive
+- 响应式原理
+### React
+
 
