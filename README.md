@@ -1,4 +1,4 @@
-### Css
+Css
 =========
 - CSS选择器及其优先级
 
@@ -11,7 +11,7 @@
 - 重绘和回流
 - Sass和Less区别
 
-### JS
+JavaScript
 =========
 
 - var、let、const区别
@@ -34,7 +34,7 @@
 - 前端存储
 - Set 和 Map有什么区别？
 
-### TypeScript
+TypeScript
 =========
 - 泛型是什么
 - 命名空间与模块的理解和区别
@@ -50,13 +50,13 @@
   }
   ```
 
-### HTTP
+HTTP
 =========
 - 强缓存和协议缓存
 - HTTP和HTTPS协议的区别
 - HTTP状态码
 
-### Vue2
+Vue2
 =========
 - vue生命周期
 - v-if 和 v-show
@@ -73,18 +73,18 @@
 - Vue的父子组件生命周期钩子函数执行顺序？
 - data为什么是一个函数而不是一个对象?
 
-### Vue3
+Vue3
 =========
 - ref
 - proxy与Object.defineProperty的优劣势对比
 - reactive
 - 响应式原理
 
-### Node
+Node
 =========
 - Node 主要包有哪些
 - 事件驱动
 
-### React
+React
 =========
 
