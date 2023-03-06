@@ -15,14 +15,15 @@ JavaScript
 =========
 
 - var、let、const区别
-- JS数据类型
+- JS数据类型、怎么检测?
   ```js
    String Boolean Null Undefined Number BigInt  Symbol
   ```
-- null和undefined的区别
+- null和undefined、undeclared 的区别
 - for...in 和 for...of的区别
 - 什么是原型什么是原型链?
 - 什么是闭包，闭包的作用是什么
+- this的指向，改变指向方法
 - 怎么给DOM绑定事件
 - 二叉树
 - New操作符做了什么事情?
