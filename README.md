@@ -1,9 +1,13 @@
 ### Css
-
+- CSS选择器及其优先级
+- CSS中可继承与不可继承属性有哪些
+- 隐藏元素的方法有哪些
 - 垂直居中方法
 - 清除浮动
 - BFC
+- 盒子模型
 - 重绘和回流
+- Sass和Less区别
 
 ### JavaScript
 
@@ -28,6 +32,19 @@
 - Set 和 Map有什么区别？
 
 ### TypeScript
+- 泛型是什么
+- 命名空间与模块的理解和区别
+- TS中的类型有哪些
+- Declare关键字有什么作用
+- any和unknown有什么区别
+- never和void的区别
+- 模块是什么
+- interface和type有什么区别
+  ```TS
+  interface person {
+    name? : string
+  }
+  ```
 
 ### HTTP
 - 强缓存和协议缓存
