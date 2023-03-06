@@ -20,6 +20,7 @@ JavaScript
    String Boolean Null Undefined Number BigInt  Symbol
   ```
 - null和undefined的区别
+- for...in 和 for...of的区别
 - 什么是原型什么是原型链?
 - 什么是闭包，闭包的作用是什么
 - 怎么给DOM绑定事件
@@ -30,6 +31,7 @@ JavaScript
 - 事件循环
 - 虚拟DOM
 - 箭头函数和普通函数有什么区别?
+- 宏任务和微任务(event loop) promise属于哪个
 - Hash和history有什么区别
 - 前端存储
 - Set 和 Map有什么区别？
@@ -52,7 +54,9 @@ TypeScript
 
 HTTP
 =========
+- http请求的方法有哪些
 - 强缓存和协议缓存
+- 三次握手 和四次挥手
 - HTTP和HTTPS协议的区别
 - HTTP状态码
 
@@ -69,12 +73,15 @@ Vue2
 - 自定义指令
 - 你是怎么封装一个组件的
 - keep-alive
+- nextTick
+- v-for的key的作用
 - Vuex的严格模式是什么,有什么作用,怎么开启
 - Vue的父子组件生命周期钩子函数执行顺序？
 - data为什么是一个函数而不是一个对象?
 
 Vue3
 =========
+- vue2和vue3的区别
 - ref
 - proxy与Object.defineProperty的优劣势对比
 - reactive
