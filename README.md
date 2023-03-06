@@ -21,7 +21,7 @@
 - 箭头函数和普通函数有什么区别?
 - Hash和history有什么区别
 - 前端存储
-- 
+- Set 和 Map有什么区别？
 
 ### TypeScript
 
@@ -37,16 +37,18 @@
 - vue生命周期
 - v-if 和 v-show
 - v-if和v-for的优先级？
-- 组件传值
+- 组件传值的方式
 - 响应式数据原理
 - 发布者模式，订阅着模式
 - v-model原理
 - mixins的理解及应用?
 - 自定义指令
 - 你是怎么封装一个组件的
--  keep-alive
--  Vuex的严格模式是什么,有什么作用,怎么开启
--  
+- keep-alive
+- Vuex的严格模式是什么,有什么作用,怎么开启
+- Vue的父子组件生命周期钩子函数执行顺序？
+- 说一下data为什么是一个函数而不是一个对象?
+
 ### Vue3
 - ref
 - proxy与Object.defineProperty的优劣势对比
