@@ -8,6 +8,7 @@
 ### JavaScript
 
 - var、let、const区别
+- JS数据类型
 - null和undefined的区别
 - 什么是原型什么是原型链?
 - 什么是闭包，闭包的作用是什么
