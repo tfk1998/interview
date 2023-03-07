@@ -105,5 +105,5 @@ React
 - 常用hooks
 - SetState是同步还是异步的
 - redux工作流
-
-
+- useEffect 模式生命周期
+- 函数组件和类组件是怎么保存state
