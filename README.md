@@ -86,6 +86,7 @@ Vue2
 - nextTick的理解
 - v-for的key的作用
 - Vue中如何进行依赖收集的
+- computed和watch的区别是什么
 - Vuex的严格模式是什么,有什么作用,怎么开启
 - Vue的父子组件生命周期钩子函数执行顺序？
 - data为什么是一个函数而不是一个对象?
