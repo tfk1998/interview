@@ -78,20 +78,24 @@ Vue2
 - 从 template 到 render 处理过程
 - v-model原理
 - mixins的理解及应用?
-- 自定义指令
+- 自定义指令的理解
 - 常用修饰符
+- 组件写name有啥好处
 - Vue.use是干什么的
 - 你是怎么封装一个组件的
 - keep-alive的理解
 - slot的理解和应用场景
 - nextTick的理解
 - v-for的key的作用
+- Vue的性能优化有哪些
+- vue-router有几种钩子函数
 - Vue中如何进行依赖收集的
 - computed和watch的区别是什么
 - Vuex的严格模式是什么,有什么作用,怎么开启
 - Vue的父子组件生命周期钩子函数执行顺序？
 - data为什么是一个函数而不是一个对象?
 - 组件和插件有什么区别
+- vue中使用了哪些设计模式
 
 Vue3
 =========
