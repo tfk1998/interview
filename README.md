@@ -33,7 +33,6 @@ JavaScript
 - 怎么理解ES6中 Generator的？使用场景？
 - async/await理解
 - 怎么给DOM绑定事件
-- 二叉树
 - 什么是事件委托
 - 什么是事件循环
 - 迭代器是什么
@@ -145,4 +144,10 @@ webpack
 - 为什么webpack 比 vite 慢
 - webpack热更新是怎么做到的，原理是什么
 - proxy 为什么能解决跨域
+
+算法
+=========
+- 二叉树
+- 二分查询
+- 
 
