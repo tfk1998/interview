@@ -54,11 +54,6 @@ TypeScript
 - never和void的区别
 - 模块是什么
 - interface和type有什么区别
-  ```TS
-  interface person {
-    name? : string
-  }
-  ```
 
 HTTP
 =========
