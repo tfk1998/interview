@@ -60,7 +60,9 @@ TypeScript
 - any和unknown有什么区别
 - never和void的区别
 - 模块是什么
+- 什么是断言
 - 模块的加载机制
+- Omit类型有什么作用
 - interface和type有什么区别
 
 HTTP
@@ -73,7 +75,7 @@ HTTP
 - HTTP状态码
 - DNS协议 是什么？
 - HTTP1.0/1.1/2.0 的区别
-- 
+- HTTP优化方案
 
 Vue2
 =========
@@ -135,8 +137,13 @@ React
 
 Node
 =========
+- node 的特点
 - Node 主要包有哪些
+- 什么是中间件
 - 事件驱动
+- 异步编程解决方案
+- 什么是线程池
+- 什么是流 
 
 
 webpack
