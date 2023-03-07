@@ -134,6 +134,8 @@ React
 - redux工作流
 - useEffect 模式生命周期
 - 对React-Fiber的理解
+- React-Router怎么设置重定向
+- React-Router的路由有几种模式
 - 函数组件和类组件是怎么保存state
 - React 高阶组件是什么，和普通组件有什么区别
 
