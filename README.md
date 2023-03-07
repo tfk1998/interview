@@ -89,6 +89,7 @@ Vue2
 - 从 template 到 render 处理过程
 - v-model原理
 - mixins的理解及应用?
+- mixins和extends有什么区别
 - 自定义指令的理解
 - 常用修饰符
 - 组件写name有啥好处
@@ -168,6 +169,7 @@ webpack
 - 二分查询
 - 冒泡排序
 - 快速排序
+- 存在重复元素
 - 树形结构查询节点
 - 多维数组扁平化
 
