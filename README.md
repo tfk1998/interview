@@ -47,6 +47,7 @@ JavaScript
 - 什么是柯里化
 - 什么是纯函数、高阶函数
 - ajax原理是什么？如何实现？
+- 常见的web前端攻击方式有哪些
 - JavaScript垃圾回收机制
 
 TypeScript
