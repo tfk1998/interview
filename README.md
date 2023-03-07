@@ -86,6 +86,7 @@ Vue2
 Vue3
 =========
 - vue2和vue3的区别
+- Options Api与Composition Api的区别
 - ref
 - proxy与Object.defineProperty的优劣势对比
 - reactive
