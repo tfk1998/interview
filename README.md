@@ -21,6 +21,7 @@ JavaScript
 
 - var、let、const区别
 - JS数据类型
+- 堆和栈的理解
 - typeof 与 instanceof 区别
 - ES6 新特性
 - null和undefined、undeclared 的区别
@@ -148,7 +149,11 @@ Node
 - 什么是中间件
 - 事件驱动
 - 异步编程解决方案
+- 如果 Node.js 是单线程的，那么它如何处理并发
+- 回调地狱的理解
+- 什么是 EventEmitter
 - 什么是线程池
+- 线程与进程的区别
 - 什么是流 
 
 
