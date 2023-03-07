@@ -14,6 +14,7 @@ Css
 - 重绘和回流理解、怎么触发
 - Sass和Less区别
 - position的属性有哪些，区别是什么
+- CSS提升页面性能的方法有哪些
 
 JavaScript
 =========
@@ -42,7 +43,7 @@ JavaScript
 - Hash和history有什么区别
 - 浅拷贝和深拷贝的区别
 - 什么是防抖和节流,有什么区别
-- 前端存储
+- 前端存储有哪些？分别有哪些特性
 - Set 和 Map有什么区别？
 - ajax原理是什么？如何实现？
 - JavaScript垃圾回收机制
