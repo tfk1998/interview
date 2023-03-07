@@ -133,7 +133,7 @@ React
 - react组件通信方式有哪些
 - 函数组件与类组件的区别
 - React 事件机制
-- 常用hooks
+- 常用hooks以及特性
 - SetState是同步还是异步的
 - redux工作流
 - useEffect 模式生命周期
