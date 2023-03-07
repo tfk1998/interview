@@ -116,6 +116,7 @@ Vue3
 React
 =========
 - 对于React 框架的理解
+- class组件和hooks有什么区别
 - React18有哪些更新
 - react组件通信方式有哪些
 - 函数组件与类组件的区别
