@@ -21,6 +21,7 @@ JavaScript
   ```js
    String Boolean Null Undefined Number BigInt  Symbol
   ```
+- ES6 新特性
 - null和undefined、undeclared 的区别
 - for...in 和 for...of的区别
 - 什么是原型什么是原型链?
