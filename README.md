@@ -54,11 +54,13 @@ TypeScript
 =========
 - 泛型是什么
 - 命名空间与模块的理解和区别
-- TS中的类型有哪些
+- TS中的内置类型有哪些
+- 什么是装饰器
 - Declare关键字有什么作用
 - any和unknown有什么区别
 - never和void的区别
 - 模块是什么
+- 模块的加载机制
 - interface和type有什么区别
 
 HTTP
