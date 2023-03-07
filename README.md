@@ -137,7 +137,7 @@ webpack
 - 说说webpack的构建流程?
 - 说说Loader和Plugin的作用及区别?
 - webpack如何优化前端性能
-- 为什么vite 比 webpack慢
+- 为什么webpack 比 vite 慢
 - webpack热更新是怎么做到的，原理是什么
 - proxy 为什么能解决跨域
 
