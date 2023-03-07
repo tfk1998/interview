@@ -144,6 +144,8 @@ webpack
 - 为什么webpack 比 vite 慢
 - webpack热更新是怎么做到的，原理是什么
 - proxy 为什么能解决跨域
+- 说一下模块打包运行原理
+- sourceMap是什么
 
 算法
 =========
