@@ -128,11 +128,14 @@ React
 - React18有哪些更新
 - react组件通信方式有哪些
 - 函数组件与类组件的区别
+- React 事件机制
 - 常用hooks
 - SetState是同步还是异步的
 - redux工作流
 - useEffect 模式生命周期
+- 对React-Fiber的理解
 - 函数组件和类组件是怎么保存state
+- React 高阶组件是什么，和普通组件有什么区别
 
 Node
 =========
