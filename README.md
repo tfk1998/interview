@@ -75,13 +75,16 @@ Vue2
 - v-model原理
 - mixins的理解及应用?
 - 自定义指令
+- 常用修饰符
 - 你是怎么封装一个组件的
-- keep-alive
-- nextTick
+- keep-alive的理解
+- slot的理解和应用场景
+- nextTick的理解
 - v-for的key的作用
 - Vuex的严格模式是什么,有什么作用,怎么开启
 - Vue的父子组件生命周期钩子函数执行顺序？
 - data为什么是一个函数而不是一个对象?
+- 组件和插件有什么区别
 
 Vue3
 =========
