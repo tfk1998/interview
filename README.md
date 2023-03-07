@@ -99,4 +99,10 @@ Node
 React
 =========
 - 对于React 框架的理解
+- React18有哪些更新
+- react组件通信方式有哪些
+- 函数组件与类组件的区别
+- 常用hooks
+- SetState是同步还是异步的
+- 
 
