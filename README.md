@@ -36,7 +36,7 @@ JavaScript
 - 什么是事件委托
 - 什么是事件循环
 - 迭代器是什么
-- 虚拟DOM
+- 什么是虚拟DOM
 - 箭头函数和普通函数有什么区别?
 - 宏任务和微任务(event loop) promise属于哪个
 - Hash和history有什么区别
