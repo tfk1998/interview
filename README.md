@@ -9,7 +9,9 @@ Css
 - 清除浮动
 - 对BFC的理解，如何创建BFC
 - 元素的层叠顺序
-- 重绘和回流
+- flex布局及属性
+- css3新特性
+- 重绘和回流理解、怎么触发
 - Sass和Less区别
 - position的属性有哪些，区别是什么
 
@@ -17,16 +19,14 @@ JavaScript
 =========
 
 - var、let、const区别
-- JS数据类型、怎么检测?
-  ```js
-   String Boolean Null Undefined Number BigInt  Symbol
-  ```
+- JS数据类型
+- typeof 与 instanceof 区别
 - ES6 新特性
 - null和undefined、undeclared 的区别
 - for...in 和 for...of的区别
 - 什么是原型什么是原型链?
 - 什么是闭包，闭包的作用是什么
-- this的指向，改变指向方法
+- this的理解，改变指向方法
 - 怎么给DOM绑定事件
 - 二叉树
 - New操作符做了什么事情?
@@ -39,8 +39,10 @@ JavaScript
 - 宏任务和微任务(event loop) promise属于哪个
 - Hash和history有什么区别
 - 浅拷贝和深拷贝的区别
+- 什么是防抖和节流,有什么区别
 - 前端存储
 - Set 和 Map有什么区别？
+- ajax原理是什么？如何实现？
 
 TypeScript
 =========
@@ -102,11 +104,6 @@ Vue3
 - 谈谈pinia
 - script setup 是什么
 
-Node
-=========
-- Node 主要包有哪些
-- 事件驱动
-
 React
 =========
 - 对于React 框架的理解
@@ -118,3 +115,20 @@ React
 - redux工作流
 - useEffect 模式生命周期
 - 函数组件和类组件是怎么保存state
+
+Node
+=========
+- Node 主要包有哪些
+- 事件驱动
+
+
+webpack
+=========
+- 说说你对webpack的理解？解决了什么问题？
+- 说说webpack的构建流程?
+- 说说Loader和Plugin的作用及区别?
+- webpack如何优化前端性能
+- 为什么vite 比 webpack慢
+- webpack热更新是怎么做到的，原理是什么
+- proxy 为什么能解决跨域
+
