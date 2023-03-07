@@ -117,7 +117,6 @@ Vue3
 - watch 和 watchEffect 的区别
 - ref与reactive的区别
 - v-if 和 v-for 的优先级哪个高
-  >在 vue2 中 v-for 的优先级更高，但是在 vue3 中优先级改变了。v-if 的优先级更高
 - proxy与Object.defineProperty的优劣势对比
 - 谈谈pinia
 - script setup 是什么
