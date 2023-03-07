@@ -45,6 +45,7 @@ JavaScript
 - 前端存储
 - Set 和 Map有什么区别？
 - ajax原理是什么？如何实现？
+- JavaScript垃圾回收机制
 
 TypeScript
 =========
