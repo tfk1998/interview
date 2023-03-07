@@ -72,7 +72,7 @@ Vue2
 =========
 - vue生命周期
 - 对MVVM的理解
-- v-if 和 v-show
+- v-if 和 v-show区别
 - v-if和v-for的优先级？
 - 组件传值的方式
 - 响应式数据原理
