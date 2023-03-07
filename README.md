@@ -28,11 +28,11 @@ JavaScript
 - 什么是闭包，闭包的作用是什么
 - this的理解，改变指向方法
 - 谈谈promise的理解
+- 怎么理解ES6中 Generator的？使用场景？
 - async/await理解
 - 怎么给DOM绑定事件
 - 二叉树
 - New操作符做了什么事情?
-- 怎么理解ES6中 Generator的？使用场景？
 - 什么是事件委托
 - 什么是事件循环
 - 迭代器是什么
