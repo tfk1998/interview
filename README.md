@@ -50,6 +50,7 @@ JavaScript
 - ajax原理是什么？如何实现？
 - 常见的web前端攻击方式有哪些
 - JavaScript垃圾回收机制
+- 什么是AST
 
 TypeScript
 =========
