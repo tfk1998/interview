@@ -33,6 +33,7 @@ JavaScript
 - var、let、const区别
 - JS数据类型
 - 堆和栈的理解
+- JavaScript内存模型
 - typeof 与 instanceof 区别
 - ES6 新特性
 - null和undefined、undeclared 的区别
@@ -61,7 +62,6 @@ JavaScript
 - ajax原理是什么？如何实现？
 - 常见的web前端攻击方式有哪些
 - JavaScript垃圾回收机制
-- JavaScript内存模型
 - 什么是AST
 
 TypeScript
