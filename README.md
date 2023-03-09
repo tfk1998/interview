@@ -151,6 +151,7 @@ React
 - redux工作流
 - useEffect 模式生命周期
 - 对React-Fiber的理解
+- 事件绑定原理
 - React-Router怎么设置重定向
 - React-Router的路由有几种模式
 - 函数组件和类组件是怎么保存state
