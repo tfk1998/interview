@@ -99,6 +99,7 @@ Vue2
 - v-if 和 v-show区别
 - v-if和v-for的优先级？
 - 组件传值的方式
+- 依赖收集原理
 - 响应式数据原理
 - 发布者模式，订阅着模式
 - 从 template 到 render 处理过程
