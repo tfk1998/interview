@@ -155,9 +155,11 @@ React
 - useEffect 模式生命周期
 - 对React-Fiber的理解
 - 事件绑定原理
+- refs 的作用是什么
 - React-Router怎么设置重定向
 - React-Router的路由有几种模式
 - 函数组件和类组件是怎么保存state
+- 受控组件和非受控组件有什么区别？
 - React 高阶组件是什么，和普通组件有什么区别
 
 Node
