@@ -154,9 +154,11 @@ React
 - 什么是 prop drilling，如何避免它
 - SetState是同步还是异步的
 - redux工作流
+- 什么是 React Fiber
 - useEffect 模式生命周期
 - 对React-Fiber的理解
 - 事件绑定原理
+- 如何避免组件的重新渲染？
 - refs 的作用是什么
 - React-Router怎么设置重定向
 - 在react中如何处理事件
