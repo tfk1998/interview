@@ -162,6 +162,7 @@ React
 - React-Router的路由有几种模式
 - 函数组件和类组件是怎么保存state
 - 受控组件和非受控组件有什么区别？
+- React 中的StrictMode(严格模式)是什么？
 - React 高阶组件是什么，和普通组件有什么区别
 
 Node
