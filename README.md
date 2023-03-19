@@ -158,6 +158,7 @@ React
 - 事件绑定原理
 - refs 的作用是什么
 - React-Router怎么设置重定向
+- 在react中如何处理事件
 - React-Router的路由有几种模式
 - 函数组件和类组件是怎么保存state
 - 受控组件和非受控组件有什么区别？
