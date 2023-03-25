@@ -118,6 +118,7 @@ Vue2
 - nextTick的理解
 - v-for的key的作用
 - Vue的性能优化有哪些
+- vue-router有几种路由模式
 - vue-router有几种钩子函数
 - Vue中如何进行依赖收集的
 - computed和watch的区别是什么
