@@ -37,7 +37,7 @@ JavaScript
 - 堆和栈的理解
 - JavaScript内存模型
 - typeof 与 instanceof 区别
-- ES6 新特性
+- ES6 新特性及应用
 - null和undefined、undeclared 的区别
 - for...in 和 for...of的区别
 - 什么是原型什么是原型链?
