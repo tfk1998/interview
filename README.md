@@ -100,6 +100,7 @@ Vue2
 - vue生命周期
 - 对MVVM的理解
 - v-if 和 v-show区别
+  v-if是
 - v-if和v-for的优先级？
 - 组件传值的方式
 - 依赖收集原理
@@ -107,6 +108,9 @@ Vue2
 - 发布者模式，订阅着模式
 - 从 template 到 render 处理过程
 - v-model原理
+  `是原生@input和value的语法糖，是通过数据劫持和发布者订阅者来实现的，核心是通过Object.defineProperty()设置数据的get和set函数来实现数据劫持的，
+  数据变化时通知订阅者
+  `
 - mixins的理解及应用?
 - mixins和extends有什么区别
 - 自定义指令的理解
