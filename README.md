@@ -1,6 +1,6 @@
 HTML
 =========
-- DOCTYPE 有什么作用
+- <p>DOCTYPE 有什么作用</p>
   声明文档类型
 - html 语义化的理解
 - Web 标准以及 W3C 标准是什么
